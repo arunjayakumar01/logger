@@ -46,6 +46,7 @@ console.info("info log");
 ````
 
 ```$ node index.js```
+
 The output will be 
 ````
 logging here
@@ -53,6 +54,7 @@ warning log
 info log
 ````
 ```$ production=true node index.js```
+
 The output will be 
 ````
 info log
