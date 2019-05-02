@@ -1,0 +1,25 @@
+{
+  "name": "logger",
+  "version": "1.0.0",
+  "description": "logging utility for nodejs, which replaces console methods with custom methods",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Arun J",
+  "license": "MIT",
+  "keywords": [
+    "console.log",
+    "logger",
+    "overide logger",
+    "logs"
+  ],
+  "bugs": {
+    "url": "https://github.com/arunjayakumar01/logger/issues",
+    "email": "aj@accubits.com"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/arunjayakumar01/logger.git"
+  }
+}
