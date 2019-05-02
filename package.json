@@ -21,5 +21,8 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/arunjayakumar01/logger.git"
+  },
+  "publishConfig": {
+    "access": "public"
   }
 }
