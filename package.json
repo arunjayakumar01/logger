@@ -1,5 +1,5 @@
 {
-  "name": "logger",
+  "name": "@accubits/logger",
   "version": "1.0.0",
   "description": "logging utility for nodejs, which replaces console methods with custom methods",
   "main": "index.js",
